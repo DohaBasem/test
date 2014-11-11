@@ -1,2 +1,6 @@
 test
 ====
+<?php
+print"anything";
+
+?>
